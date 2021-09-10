@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
         var miprimervariable = "Hola estudiantes de Ingenieria"
         println(miprimervariable)
     }
-
+    //Hola
     private fun sentenciaIf(){
         val miNumero = 12
         val miNumero2 = 8
